@@ -1,5 +1,17 @@
 # 🌐 COVID-19 Dashboard Project (Tableau)
 
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/manuthi.magedaragama/viz/CovidDashboard_17680552730320/Dashboard1">
+    <img src="assests/Covid 19 Dashboard.png" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/manuthi.magedaragama/viz/AirBnBFullProject_17682484493670/Dashboard1">
+    👉 View Live Dashboard
+  </a>
+</p>
+
 ## 📌 Project Overview
 This project is the **second part of a Data Analyst portfolio series**. Building on an initial SQL data exploration project, this stage focuses on transforming queried data into a **professional and interactive dashboard using Tableau**. The aim is to provide a **beginner-friendly roadmap** for creating visualisations that can be showcased on a **resume or LinkedIn**.
 
