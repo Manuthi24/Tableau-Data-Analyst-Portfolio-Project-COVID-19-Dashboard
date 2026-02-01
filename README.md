@@ -1,4 +1,12 @@
 # 🌐 COVID-19 Dashboard Project (Tableau)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard%20&%20Visualization-orange)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-brightgreen)
+![COVID-19](https://img.shields.io/badge/COVID-19%20Data-Pandemic%20Insights-red)
+![Analytics](https://img.shields.io/badge/Analytics-Insights%20Driven-blue)
+![Storytelling](https://img.shields.io/badge/Data%20Storytelling-Interactive%20Views-purple)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-important)
+
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/manuthi.magedaragama/viz/CovidDashboard_17680552730320/Dashboard1">
